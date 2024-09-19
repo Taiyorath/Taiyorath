@@ -1,1 +1,1 @@
-![snake gif](https://github.com/taiyorath/taiyorath/blob/output/dist/ocean.gif)
+![snake gif](https://github.com/Taiyorath/Taiyorath/blob/output/dist/ocean.gif)
