@@ -6,9 +6,9 @@
 <img align="center" src="https://github.com/Taiyorath/Taiyorath/blob/output/github-snake-dark.svg"/> </p>
 
 <p align="center">
-  <img height="200" width="200" src="WEBP/left-removebg-preview.png"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=taiyorath&theme=dark&border_radius=4.9"/>
-  <img height="200" width="200" src="WEBP/right-removebg-preview.png"/>
+  <img height="150" width="150" src="WEBP/left-removebg-preview.png"/>
+  <img align="center" width="500px" src="https://github-readme-streak-stats.herokuapp.com?user=taiyorath&theme=dark&border_radius=4.9"/>
+  <img height="150" width="150" src="WEBP/right-removebg-preview.png"/>
 </p>
 
 
@@ -25,8 +25,8 @@
 <br/>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Taiyorath&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taiyorath&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img align="center" width="350px" src="https://github-readme-stats.vercel.app/api?username=Taiyorath&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center"  width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taiyorath&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </p>
 </details>
 <br/>
