@@ -27,16 +27,42 @@
 
 
 
+#
 
 
-<h1><center>Graph</center></h1>
+
+<img  height="400px" width="1000px" src="WEBP/223e6792880429.5e569ff84ebef.gif">
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=taiyorath&bg_color=000000&color=7e75ff&line=ffffff&point=955cff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) <br> <hr>
+
+
+
+
+
+
+
+#
+
+<center><h2 >Contribution Graph:</h2></center>
+
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=taiyorath&bg_color=000000&color=7e75ff&line=ffffff&point=955cff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) <br>  
 
 <p>
 
+
+#
+
+    
+ <h2 >Snakes eat My Commits!!!😬</h2>
+
 <img align="center" src="https://github.com/Taiyorath/Taiyorath/blob/output/github-snake-dark.svg"/> </p>
+
+
+
+#
+
 
 <p align="center">
   <img height="150" width="150" src="WEBP/left-removebg-preview.png"/>
@@ -46,9 +72,9 @@
 
 
 
+
+
 #
-
-
 
 <details open="">
 <summary>
